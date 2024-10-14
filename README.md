@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/omer-can-karadag" target="blank"><img align="center" src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357" alt="omer-can-karadag" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omer-can-karadag" target="blank"><img align="center" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" alt="omer-can-karadag" height="30" width="40" /></a>
 </p>
 
 
